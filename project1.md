@@ -4,7 +4,7 @@
 
 本次 Project 使用 python 完成，主要功能仅使用 numpy 等 python 基本库。
 
-github 仓库地址：
+github 仓库地址：https://github.com/h0t-zer0/project1.git
 
 ### 文件结构（主要内容）：
 
